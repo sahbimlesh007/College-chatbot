@@ -1,0 +1,88 @@
+PDF Document
+
+SCHEME OF STUDY AND EXAMINATION FOR MASTER OF COMPUTER APPLICATIONS 
+(MCA) 
+ 
+Semester Paper Code Title of the Paper Hours 
+/Week 
+Marks Credits 
+IA Exam Total Subject Total 
+ 
+ 
+ 
+ 
+ 
+I 
+MCA101T Object Oriented Programming 
+with Java 
+4 30 70 100 4  
+ 
+ 
+ 
+ 
+28 
+MCA102T Advanced Software 
+Engineering 
+4 30 70 100 4 
+MCA103T Mathematical Foundations 4 30 70 100 4 
+MCA104T Advanced Database 
+Management System 
+4 30 70 100 4 
+MCA105T Data Structures and Algorithms 4 30 70 100 4 
+MCA106T Theory of Computation 4 30 70 100 4 
+MCA107P Java Programming Lab 4 30 70 100 2 
+MCA108P Data Structures and Algorithm 
+Lab 
+4 30 70 100 2 
+ 
+ 
+ 
+II 
+MCA201T Artificial Intelligence 4 30 70 100 4  
+ 
+ 
+28 
+MCA202T Web Technologies 4 30 70 100 4 
+MCA203T Advanced Python Programming 4 30 70 100 4 
+MCA204T Operating System and Linux 4 30 70 100 4 
+MCA205T Network and Information 
+Security 
+4 30 70 100 4 
+MCA206T Cloud Computing 4 30 70 100 4 
+MCA207P Web Technologies Lab 4 30 70 100 2 
+MCA208P Python Programming Lab 4 30 70 100 2 
+ 
+ 
+ 
+III 
+MCA301T Research Methodology 4 30 70 100 4  
+ 
+ 
+28 
+MCA302T Data Science 4 30 70 100 4 
+MCA303T Elective-I 4 30 70 100 4 
+MCA304T Elective-II 4 30 70 100 4 
+MCA305T Elective-III 4 30 70 100 4 
+MCA306P Data Science Lab 8 30 70 100 4 
+MCA307P Mini Project 8 30 70 100 4 
+IV MCA401P Main Project 32 120 280 400 16 16 
+ 
+Electives 
+ 
+ 
+Elective-I 
+(Any one to be opted) 
+Machine Learning 
+Object Oriented Analysis and Design 
+using UML 
+Internet of Things 
+Elective-II 
+(Any one to be opted) 
+Cyber Security and Cyber Laws 
+Software Testing Tools 
+Mobile Computing 
+Elective-III 
+(Any one to be opted) 
+Big Data Analytics 
+Deep Learning 
+Blockchain Technologies 
